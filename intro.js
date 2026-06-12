@@ -1,3 +1,1 @@
-console.log('David Ajaraogu');
-console.log('18');
-console.log('JavaScript & TypeScript');
+console.log('My name is David Ajaraogu, I am 18, My favourite Programming language is JavaScript')
