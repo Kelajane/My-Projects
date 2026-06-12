@@ -1,3 +1,3 @@
-console.console.log('David Ajaraogu');
-console.console.log('18');
-console.console.log('JavaScript & TypeScript');
+console.log('David Ajaraogu');
+console.log('18');
+console.log('JavaScript & TypeScript');
